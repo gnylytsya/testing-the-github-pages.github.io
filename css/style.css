@@ -1,0 +1,41 @@
+body{
+padding: 5px 100px 100px 100px;
+}
+#navigation{
+	font-size: 18px;
+	font-family:cursive;
+}
+#information{
+	margin-top: 20px;
+}
+#the_lineup{
+	text-align: center;
+	margin-top: 25px;
+}
+#the_lineu > h1,h2,h3,h4,h5,h5 {
+}
+.img-responsive{
+	border-radius: 15px;
+	padding: 5px 5px 5px 5px;
+	transition-duration: 3s
+}
+.img-responsive:hover {
+	-webkit-transform: scale(1.2);
+	-ms-transform: scale(1.2);
+	transform: scale(1.2);
+}
+#footer{
+	position: absolute;
+	width: 90%;
+	height: 180px;
+	background-color: gray;
+	text-align: center;
+	
+}
+.fa{
+	color: black;
+	padding: 10px;
+}
+.logo{
+	height: 50px;
+}
